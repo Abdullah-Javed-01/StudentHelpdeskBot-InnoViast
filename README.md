@@ -97,19 +97,13 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-Add 3–5 screenshots here after completing the project.
+https://drive.google.com/file/d/1YTgvMNO__StOnYb4ohAU-XiKjFCK_YkC/view?usp=drive_link
 
 ---
 
 ## 🎥 Demo Video
 
-Record a 1–2 minute demonstration showing:
-
-- Chat interface
-- In-scope questions
-- Out-of-scope questions
-- Conversation memory
-- New Chat button
+https://drive.google.com/file/d/1Ys1HH-A-WqoH7G4y4oaaNRk_jZlJuRy-/view?usp=drive_link
 
 ---
 
